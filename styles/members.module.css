@@ -1,0 +1,17 @@
+.membersGrid {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+@media (max-width: 800px) {
+  .membersGrid {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media (max-width: 600px) {
+  .membersGrid {
+    grid-template-columns: 1fr;
+  }
+}
