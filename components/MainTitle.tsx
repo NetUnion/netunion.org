@@ -7,7 +7,6 @@ export interface MainTitleProps {
 }
 
 export default function MainTitle({ focus }: MainTitleProps) {
-  console.log(focus);
   return <div className={styles.mainTitle}>
     <div><Link href="/"><a className="override">NetUnion @ UESTC</a></Link></div>
     <div className="spacer" />
