@@ -3,7 +3,7 @@ name: Hexo build
 on:
   push:
     branches:
-      - master # default branch
+      - main # default branch
 
 jobs:
   pages:
