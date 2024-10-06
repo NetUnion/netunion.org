@@ -14,3 +14,14 @@ social_links:
   -
     icon: github
     link: https://github.com/NetUnion
+
+favicon:
+  desktop:
+    url: /assets/favicon.ico
+    gravatar: false
+  android:
+    url: /assets/android-chrome-192x192.png
+    gravatar: false
+  apple:
+    url: /assets/apple-touch-icon.png
+    gravatar: false
