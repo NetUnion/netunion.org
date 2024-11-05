@@ -1,6 +1,5 @@
 ---
 title: 上网指南（中文）
-date: 2024-09-09
 wiki: docs-uestc-internet
 tag: wiki
 ---
