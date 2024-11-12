@@ -60,6 +60,8 @@ The first time you connect to the dormitory network, you need to bind your opera
    ![](https://img.duanyll.com/img/20240909194346.png)
 7. After successful binding, you can view the bound account on the "Carriers Bound" page.
 
+> For China Mobile users: If you need to reset your broadband account password, send a SMS message with content _czkdmm_ to 10086, and you'll receive you broadband account and its password. **You need to add _@cmccgx_ after the account name** when binding the broadband account.
+
 #### Logging into the Campus Network
 
 Once binding is complete, you can use your unified identity authentication account to log into the campus network as follows:
