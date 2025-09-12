@@ -9,6 +9,9 @@
         "deploy": "hexo deploy",
         "server": "hexo server"
     },
+    "engines": {
+        "yarn": "1.x"
+    },
     "hexo": {
         "version": "7.3.0"
     },
