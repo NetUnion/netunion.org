@@ -1,7 +1,10 @@
 version: 2
 updates:
-- package-ecosystem: npm
-  directory: "/"
-  schedule:
-    interval: daily
-  open-pull-requests-limit: 20
+    - package-ecosystem: yarn
+      directory: '/'
+      schedule:
+          interval: daily
+      open-pull-requests-limit: 20
+      post-update-options:
+          - 'yarn prettier --check .'
+          - 'yarn run build'

@@ -1,27 +1,26 @@
 nav:
-  首页: /
-  文档: /tags/wiki/
-  人员: /people
-  招新: /recruit
+    首页: /
+    文档: /tags/wiki/
+    人员: /people
+    招新: /recruit
 
 logo:
-  enabled: true
-  url: /assets/nu.png
-  width: 50
-  height: 50
+    enabled: true
+    url: /assets/nu.png
+    width: 50
+    height: 50
 
 social_links:
-  -
-    icon: github
-    link: https://github.com/NetUnion
+    - icon: github
+      link: https://github.com/NetUnion
 
 favicon:
-  desktop:
-    url: /assets/favicon.ico
-    gravatar: false
-  android:
-    url: /assets/android-chrome-192x192.png
-    gravatar: false
-  apple:
-    url: /assets/apple-touch-icon.png
-    gravatar: false
+    desktop:
+        url: /assets/favicon.ico
+        gravatar: false
+    android:
+        url: /assets/android-chrome-192x192.png
+        gravatar: false
+    apple:
+        url: /assets/apple-touch-icon.png
+        gravatar: false

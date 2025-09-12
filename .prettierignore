@@ -1,0 +1,5 @@
+node_modules/
+public/
+.wrangler/
+themes/
+worker-configuration.d.ts
