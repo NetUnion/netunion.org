@@ -1,0 +1,25 @@
+{
+    "name": "netunion_org",
+    "compatibility_date": "2025-09-01",
+    "build": {
+        "command": "yarn run build",
+        "cwd": "./"
+    },
+    "assets": {
+        "directory": "./public",
+        "not_found_handling": "404-page"
+    },
+    "observability": {
+        "enabled": false
+    },
+    "placement": {
+        "mode": "smart"
+    },
+    "routes": [
+        {
+            "pattern": "netunion.org",
+            "custom_domain": true
+        }
+    ],
+    "workers_dev": false
+}
