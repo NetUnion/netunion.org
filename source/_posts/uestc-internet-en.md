@@ -2,6 +2,7 @@
 title: Internet Guide (English)
 tag: wiki
 wiki: docs-uestc-internet
+date: 2024-09-21 10:00:00
 ---
 
 [中文版本 Chinese version](/2024/uestc-internet)
