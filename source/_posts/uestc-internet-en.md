@@ -57,7 +57,7 @@ You can connect to the network using a wireless router or by directly connecting
 The first time you connect to the dormitory network, you need to bind your operator account to your unified identity authentication account as follows:
 
 1. In the dormitory area, connect your computer to the configured router or directly to the wall network port.
-2. The network login page may open automatically; if not, manually visit [http://10.253.0.235](http://10.0.253.235).
+2. The network login page may open automatically; if not, manually visit [http://10.253.0.235](http://10.253.0.235).
 
     ![](https://img.duanyll.com/img/20240909193323.png)
 
@@ -90,7 +90,7 @@ For China Telecom users: The account is your phone number. Try the password `123
 
 Once binding is complete, you can use your unified identity authentication account to log into the campus network as follows:
 
-1. Open a browser and visit any website to be automatically redirected to the login page. Alternatively, you can manually visit [http://10.253.0.235](http://10.0.253.235).
+1. Open a browser and visit any website to be automatically redirected to the login page. Alternatively, you can manually visit [http://10.253.0.235](http://10.253.0.235).
 2. Enter your **student ID and unified identity authentication password**, and depending on your operator, click **“移动登录”** (Mobile Login) or **“电信登录”** (Telecom Login).
 3. When you see your IP address on the login page, you have successfully connected to the internet.
    ![](https://img.duanyll.com/img/20240909193713.png)
