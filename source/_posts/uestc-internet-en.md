@@ -29,6 +29,8 @@ The China Mobile and China Telecom broadband in Phase 5-6 dormitories use a web-
 
 #### Connecting the Router
 
+> Connecting a router is not part of the network management association's scope of work; please solve it yourself if needed. The process is not complicated and tutorials can be found via any search engine.
+
 You can connect to the network using a wireless router or by directly connecting your computer to the wall network port with an Ethernet cable. Using a wireless router allows multiple devices like phones and tablets to access the internet simultaneously. If you use an Ethernet cable to connect your computer, only the computer can use the campus network.
 
 > In simple terms, you need to configure the router's WAN port to DHCP mode. If you are unsure how to configure it, detailed instructions are provided below.

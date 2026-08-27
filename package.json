@@ -14,7 +14,7 @@
         "version": "7.3.0"
     },
     "dependencies": {
-        "hexo": "^7.3.0",
+        "hexo": "^8.1.2",
         "hexo-generator-archive": "^2.0.0",
         "hexo-generator-category": "^2.0.0",
         "hexo-generator-index": "^4.0.0",
@@ -28,6 +28,6 @@
     },
     "devDependencies": {
         "prettier": "^3.8.3",
-        "wrangler": "^4.62.0"
+        "wrangler": "^4.90.0"
     }
 }
