@@ -58,6 +58,8 @@ You can connect to the network using a wireless router or by directly connecting
 
 The first time you connect to the dormitory network, you need to bind your operator account to your unified identity authentication account as follows:
 
+> If you cannot log in to the self-service page at `10.253.0.235` (e.g., your account is not yet in the backend system), first log in once with your student ID and password under any carrier. Afterwards, you will be able to log in to the self-service page normally.
+
 1. In the dormitory area, connect your computer to the configured router or directly to the wall network port.
 2. The network login page may open automatically; if not, manually visit [http://10.253.0.235](http://10.253.0.235).
 
