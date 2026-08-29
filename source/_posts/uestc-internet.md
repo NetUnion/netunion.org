@@ -2,7 +2,7 @@
 title: 上网指南（中文）
 wiki: docs-uestc-internet
 tag: wiki
-date: 2026-08-27 10:00:00
+date: 2026-08-29 13:00:00
 ---
 
 [English version 英文版本](/2026/uestc-internet-en)
