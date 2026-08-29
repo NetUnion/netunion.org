@@ -11,7 +11,7 @@
     },
     "packageManager": "yarn@1.22.22",
     "hexo": {
-        "version": "7.3.0"
+        "version": "8.1.2"
     },
     "dependencies": {
         "hexo": "^8.1.2",
