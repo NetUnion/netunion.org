@@ -61,7 +61,6 @@ The first time you connect to the dormitory network, you need to bind your opera
 
 > If you cannot log in to the self-service page at `10.253.0.235` (possibly because your account info is not yet in the backend system), first log in once with your student ID and password under any carrier (this step is to sync your account info). A message may pop up — this is not an error — wait patiently for a few minutes, and then you will be able to log in to the self-service page normally.
 
-
 1. In the dormitory area, connect your computer to the configured router or directly to the wall network port.
 2. The network login page may open automatically; if not, manually visit [http://10.253.0.235](http://10.253.0.235).
 
