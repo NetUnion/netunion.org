@@ -88,7 +88,7 @@ For China Mobile users: If you need to reset your broadband account password, se
 
 For instance, if your China Mobile phone number is 13812345678, text `czkdmm` to 10086, and you'll receive your broadband account like `SCXY13812345678`, and a six-digit password. In the binding process, you should enter `SCXY13812345678@cmccgx` as the broadband account, and the six-digit password.
 
-For China Telecom users: The account is your phone number. Try the password `12345678` first. If it doesn't work, please contact China Telecom customer service to reset your password.
+For China Telecom users: The account is your phone number. Try the password `12345678` first. If it doesn't work, try the last 8 digits of your phone number, or contact China Telecom customer service to reset your password.
 
 #### Logging into the Campus Network
 
